@@ -1,0 +1,4 @@
+{
+  "jsonQuestions" : "./data/questions.json",
+  "jsonUsers" : "./data/users.json"
+}
